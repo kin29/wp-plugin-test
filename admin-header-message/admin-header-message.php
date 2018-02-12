@@ -6,7 +6,7 @@
  * Version: 1.0.0
  * Author: kin29
  * Author URI: https://kin29.info
- * License: GPLv2
+ * License: GPL2
  */
 /*  Copyright 2018 ki29 (email : kin29.com@gmail.com)
 
